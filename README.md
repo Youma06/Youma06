@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Youma06
-- 👀 I’m interested in Bakc-End Developing
+- 👀 I’m interested in Back-End Developing
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
